@@ -1,0 +1,9 @@
+create repo in github 
+clone this repo to your desktop
+use cd~/filename to access directly to this file then use cd to to access and cd .. to go back
+copie these files to this cloning repo thats exist on you desktop
+git status to see the situation
+git add. (for every thing) or git add +name file (for precise folder)
+git commit -m "make name of this file"
+git push
+_DONE_
